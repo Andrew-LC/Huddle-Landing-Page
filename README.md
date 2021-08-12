@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution page on frontend mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/barely-made-huddle-landing-page-u0qzb8l9j)
 - Live Site URL: [Live demo](https://andrew-lc.github.io/Huddle-Landing-Page/)
 
 ### Built with
