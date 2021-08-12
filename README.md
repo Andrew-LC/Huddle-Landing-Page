@@ -11,22 +11,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images)
-
+![](./images/project-image.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-
 ### Built with
 
--  HTML5 
+- HTML5
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
 
 ### Continued development
 
